@@ -1,0 +1,42 @@
+.Service{
+    font-family:'Times New Roman', Times, serif;
+}
+.FirstL{
+    color: #96433B;
+    font-family:"-moz-initial";
+    font-weight: bold;
+
+}
+.title{
+    text-align: center;
+    font-size: xxx-large;
+    margin-top: 20px;
+    font-family:"-moz-initial";
+}
+.Sub{
+    /* font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    margin-top: 90px;
+    font-family:"-moz-initial";
+    /* font-family: Suifak; */
+}   
+.pics{
+   height: 90%;
+   width: 90%;
+   align-content: center;
+   
+}
+.pics:hover{
+    box-shadow: 0px 3px 12px 0px black;
+   
+}
+
+h3{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: cadetblue;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
